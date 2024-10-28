@@ -1,0 +1,5 @@
+*.xml
+*.dat
+*.caffemodel
+*.hdf5
+*.prototxt

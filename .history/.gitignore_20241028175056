@@ -1,0 +1,7 @@
+*.xml
+*.dat
+*.caffemodel
+*.hdf5
+*.prototxt
+
+style_transfer/Images/*
